@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AurelioIQ
+- 👋 Hi, I’m Aurelio Esquivia; @AurelioIQ
 - 👀 I’m interested in the coupling of computational tools and data analysis put into practice in the innovation of production and research processes.
 - 🌱 I’m currently learning  programming in matlab, python, and power BI.
 - 💞️ I’m looking to collaborate on I+D+i Projects. 
